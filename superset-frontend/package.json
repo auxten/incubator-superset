@@ -196,7 +196,7 @@
     "@svgr/webpack": "^5.4.0",
     "@types/classnames": "^2.2.10",
     "@types/dom-to-image": "^2.6.0",
-    "@types/enzyme": "^3.10.5",
+    "@types/enzyme": "^3.10.8",
     "@types/enzyme-adapter-react-16": "^1.0.6",
     "@types/fetch-mock": "^7.3.2",
     "@types/jest": "^26.0.3",
